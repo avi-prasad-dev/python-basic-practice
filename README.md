@@ -1,0 +1,62 @@
+# Python Basics Practice 🚀
+
+A collection of beginner-friendly Python practice programs created while learning core Python concepts like variables, conditions, loops, functions, and problem-solving.
+
+This repository will be updated regularly as I continue practicing and building new Python programs.
+
+---
+
+# 📚 Topics Covered
+
+- Variables & Data Types
+- User Input
+- Conditional Statements
+- Loops
+- Functions
+- Basic Math Operations
+- String Handling
+
+---
+
+# 🧠 Practice Programs Included
+
+> New programs will be added and this section will be updated regularly during my Python learning journey.
+
+## Current Programs
+
+1. Even or Odd Checker
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
+
+---
+
+# 🛠 Tech Used
+
+- Python 3
+
+---
+
+# 📂 Repository Structure
+
+```bash
+python-basics-practice/
+│
+├── even_odd.py
+├── 
+├── 
+├── 
+├── 
+├── 
+├── 
+├── 
+├── 
+├── 
+│
+└── README.md
