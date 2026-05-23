@@ -25,7 +25,7 @@ This repository will be updated regularly as I continue practicing and building 
 ## Current Programs
 
 1. Even or Odd Checker
-2. 
+2. Sum of Numbers from 1 to N
 3. 
 4. 
 5. 
@@ -48,8 +48,8 @@ This repository will be updated regularly as I continue practicing and building 
 ```bash
 python-basics-practice/
 │
-├── even_odd.py
-├── 
+├── 1_even_odd_check.py
+├── 2_sum_of_num.py
 ├── 
 ├── 
 ├── 
