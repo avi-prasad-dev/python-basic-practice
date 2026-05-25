@@ -26,7 +26,7 @@ This repository will be updated regularly as I continue practicing and building 
 
 1. Even or Odd Checker
 2. Sum of Numbers from 1 to N
-3. 
+3. Multiplication Table Generator from  1 to 10
 4. 
 5. 
 6. 
@@ -50,7 +50,7 @@ python-basics-practice/
 │
 ├── 1_even_odd_check.py
 ├── 2_sum_of_num.py
-├── 
+├── 3_multiplication_table_generator.py
 ├── 
 ├── 
 ├── 
