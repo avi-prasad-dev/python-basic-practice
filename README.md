@@ -28,7 +28,7 @@ This repository will be updated regularly as I continue practicing and building 
 2. Sum of Numbers from 1 to N
 3. Multiplication Table Generator from  1 to 10
 4. Count Even and Odd Numbers in a List
-5. 
+5. Find the Largest Number in a List
 6. 
 7. 
 8. 
@@ -52,7 +52,7 @@ python-basics-practice/
 ├── 2_sum_of_num.py
 ├── 3_multiplication_table_generator.py
 ├── 4_count_even_odd_numbers.py
-├── 
+├── 5_largest_number_from_list.py
 ├── 
 ├── 
 ├── 
